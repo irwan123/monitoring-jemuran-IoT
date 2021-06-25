@@ -18,7 +18,7 @@ a.	Pin motor stepper
 - IN3 = 04
 - IN4 =  05
 - --    =  G
-- +    =  UU
+- ++   =  UU
 
 b.	Pin sensor cahaya
 D0 = 01
