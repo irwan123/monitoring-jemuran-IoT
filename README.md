@@ -13,12 +13,12 @@ Arduino Project with Blynk Android App
 - Power Bank
 # Configuration Pin 
 a.	Pin motor stepper
-IN1 = 02
-IN2 = 03
-IN3 = 04
-IN4 =  05
---    =  G
-+    =  UU
+- IN1 = 02
+- IN2 = 03
+- IN3 = 04
+- IN4 =  05
+- --    =  G
+- +    =  UU
 
 b.	Pin sensor cahaya
 D0 = 01
