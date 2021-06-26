@@ -12,7 +12,9 @@ Arduino Project with Blynk Android App
 - 2 handphone 
 - Power Bank
 # Configuration
-<img align="center" src="https://user-images.githubusercontent.com/30284330/123495070-61b45980-d64c-11eb-8d90-607031f2262f.jpg" width="500" height="500"/>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/30284330/123495070-61b45980-d64c-11eb-8d90-607031f2262f.jpg" width="600" height="400"/>
+<p>
 a.	Pin motor stepper
 - IN1 = 02
 - IN2 = 03
