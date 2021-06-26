@@ -35,5 +35,5 @@ Button 1 = V1 (push)
 Button 2 = V2 (push)
 LCD = V5 - Advanced
 # Screeshot
-<img align="left" src="https://user-images.githubusercontent.com/30284330/123494918-c15e3500-d64b-11eb-8b60-38e95f14b2e2.jpg" width="400" height="600" />
+<img align="left" src="https://user-images.githubusercontent.com/30284330/123494918-c15e3500-d64b-11eb-8b60-38e95f14b2e2.jpg" width="200" height="400" />
 
